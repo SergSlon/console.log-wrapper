@@ -1,0 +1,849 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"im",
+				"import"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"normal",
+				"normalizeDisplay"
+			],
+			[
+				"sav",
+				"savedIds"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"userid",
+				"user_id"
+			],
+			[
+				"DO",
+				"DOC_ROOT"
+			],
+			[
+				"entities",
+				"include_entities"
+			],
+			[
+				"array_",
+				"array_merge"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"in",
+				"inline-block  (value)"
+			],
+			[
+				"composet",
+				"composeTweetBox"
+			],
+			[
+				"comp",
+				"$composeTweetBox  (variable)"
+			],
+			[
+				"targ",
+				"$target  (variable)"
+			],
+			[
+				"d",
+				"d  (namespace)"
+			],
+			[
+				"for",
+				"for: for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"events",
+				"eventsInit  (function)"
+			],
+			[
+				"comma",
+				"command  (variable)"
+			],
+			[
+				"meta",
+				"meta: <meta name=\"\" content=\"\">"
+			],
+			[
+				"key",
+				"keys  (namespace)"
+			],
+			[
+				"fl",
+				"fltr  (namespace)"
+			],
+			[
+				"snr",
+				"snr  (variable)"
+			],
+			[
+				"body",
+				"$body  (variable)"
+			],
+			[
+				"fltr",
+				"fltr  (namespace)"
+			],
+			[
+				"s",
+				"source  (namespace)"
+			],
+			[
+				"sync",
+				"sync  (namespace)"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"get",
+				"getUnixTime"
+			],
+			[
+				"fid",
+				"fid"
+			],
+			[
+				"de",
+				"defaultObj"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2467,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 3148,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"fet ",
+				"Fetch"
+			],
+			[
+				"fet",
+				"Fetch"
+			],
+			[
+				"LIST ",
+				"Package Control: List Packages"
+			],
+			[
+				"fe",
+				"Fetch"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"oacka",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 136.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/craig/Dropbox/Patik.com/demos/consolelog/index.html",
+		"/Users/craig/Dropbox/code/console.log-wrapper/gh-pages.html",
+		"/Users/craig/Dropbox/code/console.log-wrapper/index.html",
+		"/Users/craig/Dropbox/code/console.log-wrapper/README",
+		"/Users/craig/Dropbox/Patik.com/demos/consolelog/consolelog.js",
+		"/Users/craig/Dropbox/Patik.com/index.php",
+		"/Users/craig/Dropbox/Patik.com/inc/html.php",
+		"/Users/craig/Dropbox/Patik.com/min/groupsConfig.php",
+		"/Users/craig/Dropbox/Patik.com/js/libs/bootstrap.min.js",
+		"/Users/craig/Dropbox/Patik.com/js/libs/ajaxify-html5.js",
+		"/Users/craig/Dropbox/Patik.com/js/libs/jquery.history.js",
+		"/Users/craig/Dropbox/Patik.com/less/variables.less",
+		"/Users/craig/Dropbox/Patik.com/ophoto/html/maintenance.php",
+		"/Users/craig/Dropbox/Patik.com/ophoto/html/index.php",
+		"/Users/craig/Dropbox/Patik.com/ophoto/html/assets/themes/default/templates/template.php",
+		"/Users/craig/Dropbox/Patik.com/ophoto/html/assets/themes/default/stylesheets/styles.css",
+		"/Users/craig/Dropbox/Patik.com/ophoto/html/assets/themes/default/javascripts/openphoto-theme.js",
+		"/Users/craig/Dropbox/Patik.com/ophoto/html/assets/themes/default/javascripts/openphoto-theme-mobile.js",
+		"/Users/craig/Dropbox/Patik.com/ophoto/html/assets/themes/default/config/settings.ini",
+		"/Users/craig/Dropbox/Patik.com/ophoto/html/assets/javascripts/openphoto-upload.min.js",
+		"/Users/craig/Dropbox/Patik.com/ophoto/html/assets/javascripts/openphoto-upload.js",
+		"/Users/craig/Dropbox/Patik.com/ophoto/html/assets/javascripts/openphoto-helper.min.js",
+		"/Users/craig/Dropbox/Patik.com/less/style.less",
+		"/Users/craig/Dropbox/Patik.com/css/style.css",
+		"/Users/craig/Dropbox/Patik.com/ophoto/html/assets/javascripts/openphoto-helper.js",
+		"/Users/craig/Dropbox/Patik.com/ophoto/html/assets/stylesheets/upload.css",
+		"/Users/craig/Dropbox/Patik.com/ophoto/html/assets/stylesheets/mobile.css",
+		"/Users/craig/Dropbox/Patik.com/adaptive-images.php",
+		"/Users/craig/Dropbox/Patik.com/.gitignore",
+		"/Users/craig/Dropbox/Patik.com/.htaccess",
+		"/Users/craig/Dropbox/Patik.com/travel/germany/index.php",
+		"/Users/craig/Dropbox/Patik.com/readme.md",
+		"/Users/craig/Dropbox/Patik.com/code/chromorph/offline.css",
+		"/Users/craig/Dropbox/Patik.com/photos/index.php",
+		"/Users/craig/Dropbox/Patik.com/travel/index.php",
+		"/Users/craig/Dropbox/Patik.com/travel/peru-argentina/index.php",
+		"/Users/craig/Dropbox/Patik.com/cookie/index.php",
+		"/Users/craig/Dropbox/Patik.com/code/comicscom-image-grabber/index.php",
+		"/Users/craig/Dropbox/Patik.com/inc/keys.php",
+		"/Users/craig/Dropbox/Patik.com/less/bootstrap/variables.less",
+		"/Users/craig/Dropbox/Patik.com/travel/turkey/index.php",
+		"/Users/craig/Dropbox/Patik.com/travel/spain/index.php",
+		"/Users/craig/Dropbox/Patik.com/travel/paris/index.php",
+		"/Users/craig/Dropbox/Patik.com/travel/greece/index.php",
+		"/Users/craig/Dropbox/Patik.com/travel/britain-benelux/index.php",
+		"/Users/craig/Dropbox/Patik.com/travel/france/index.php",
+		"/Users/craig/Dropbox/Patik.com/less/bootstrap/responsive.less",
+		"/Users/craig/Dropbox/Patik.com/less/bootstrap/navbar.less",
+		"/Users/craig/Dropbox/Patik.com/js/ga.js",
+		"/Users/craig/Dropbox/Patik.com/wait.php",
+		"/Users/craig/Dropbox/Patik.com/js/libs/jquery.min.js",
+		"/Users/craig/Documents/Sort through/stuff/popupcount.dat",
+		"/Users/craig/Documents/Sort through/stuff/gcal-agenda-siderbar.html",
+		"/Users/craig/Dropbox/Patik.com/wait_image.php",
+		"/Users/craig/Dropbox/Patik.com/csyes/index.html",
+		"/Users/craig/Dropbox/Patik.com/404.html",
+		"/Users/craig/Dropbox/Patik.com/500.php",
+		"/Users/craig/Dropbox/Patik.com/404.php",
+		"/Users/craig/Dropbox/Patik.com/js/script.js",
+		"/Users/craig/Dropbox/Patik.com/humans.txt",
+		"/Users/craig/Dropbox/Patik.com/tools/.htaccess",
+		"/Users/craig/Dropbox/Patik.com/craigkimmy.jpg",
+		"/Users/craig/Dropbox/Patik.com/window/window.png",
+		"/Users/craig/Dropbox/Patik.com/sftp-settings.json",
+		"/Users/craig/Dropbox/Patik.com/sftp-config.json",
+		"/Users/craig/Dropbox/Patik.com/code/user-scripts/readable-trip-advisor.user.js",
+		"/Users/craig/Dropbox/Patik.com/code/user-scripts/readable-trip-advisor.css",
+		"/Users/craig/Dropbox/Patik.com/code/user-scripts/index.php",
+		"/Users/craig/Dropbox/Patik.com/js/libs/history.js",
+		"/Users/craig/Dropbox/Patik.com/code/index.php",
+		"/Users/craig/Dropbox/Patik.com/html5/websites-future/index.php",
+		"/Users/craig/Dropbox/Patik.com/n/less/bootstrap/variables.less",
+		"/Users/craig/Dropbox/Patik.com/n/less/bootstrap/mixins.less",
+		"/Users/craig/Dropbox/Patik.com/n/less/variables.less",
+		"/Users/craig/Dropbox/Patik.com/n/less/bootstrap/responsive.less",
+		"/Users/craig/Dropbox/Patik.com/n/less/bootstrap/bootstrap.less",
+		"/Users/craig/Dropbox/Patik.com/n/less/style.less",
+		"/Users/craig/Dropbox/Patik.com/n/inc/html.php",
+		"/Users/craig/Dropbox/Patik.com/n/index.php",
+		"/Users/craig/Dropbox/Patik.com/n/js/script.js",
+		"/Users/craig/Dropbox/Patik.com/n/js/plugins.js",
+		"/Users/craig/Dropbox/Patik.com/n/index2.html",
+		"/Users/craig/Dropbox/Patik.com/n/css/style.css",
+		"/Users/craig/Library/Application Support/Sublime Text 2/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/craig/Library/Application Support/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/Users/craig/Dropbox/Patik.com/n/img/home-travel-germany.jpg",
+		"/Users/craig/Dropbox/Patik.com/n/img/home-console-blog-logo.png",
+		"/Users/craig/Dropbox/Patik.com/n/css/libs/bootstrap.css",
+		"/Users/craig/Dropbox/Patik.com/n/js/ga.js",
+		"/Users/craig/Dropbox/Patik.com/n/.htaccess",
+		"/Users/craig/Dropbox/Patik.com/n/index.html",
+		"/Users/craig/Dropbox/Patik.com/n/css/libs/modernizr.js",
+		"/Users/craig/Dropbox/Patik.com/n/css/libs/bootstrap.min.css",
+		"/Users/craig/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/craig/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/craig/Dropbox/SignalToNoise/css/mobile.zscroll.css",
+		"/Users/craig/Dropbox/SignalToNoise/js/script.mobile.zscroll.js",
+		"/Users/craig/Dropbox/SignalToNoise/u.php",
+		"/Users/craig/Dropbox/SignalToNoise/code_snippets.php",
+		"/Users/craig/Dropbox/SignalToNoise/js/script.desktop.js",
+		"/Users/craig/Dropbox/SignalToNoise/css/desktop.home.css",
+		"/Users/craig/Dropbox/SignalToNoise/css/desktop.common.css",
+		"/Users/craig/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"/Users/craig/Library/Application Support/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"/Users/craig/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/craig/Dropbox/SignalToNoise/inc/urls.php",
+		"/Users/craig/Dropbox/SignalToNoise/refresh.php",
+		"/Users/craig/Dropbox/SignalToNoise/refresh_cron.php",
+		"/Users/craig/Library/Application Support/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/Users/craig/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/craig/Library/Application Support/Sublime Text 2/Packages/User/CSS.sublime-settings",
+		"/Users/craig/Library/Application Support/Sublime Text 2/Packages/User/HTML 5.sublime-settings",
+		"/Users/craig/Library/Application Support/Sublime Text 2/Packages/User/PHP.sublime-settings",
+		"/Users/craig/Dropbox/SignalToNoise/js/filters.desktop.js",
+		"/Users/craig/Dropbox/SignalToNoise/sftp-settings.json",
+		"/Users/craig/Dropbox/SignalToNoise/getTrends.php",
+		"/Users/craig/Dropbox/SignalToNoise/inc/tw_api.php",
+		"/Users/craig/Library/Application Support/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/craig/Dropbox/SignalToNoise/.buildpath",
+		"/Users/craig/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/Base File.sublime-settings",
+		"/Users/craig/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/Users/craig/Dropbox/SignalToNoise/.htaccess",
+		"/Users/craig/Dropbox/SignalToNoise/perc.php",
+		"/Users/craig/Dropbox/SignalToNoise/mpage.php",
+		"/Users/craig/Dropbox/SignalToNoise/mpage_parts.php",
+		"/Users/craig/Dropbox/SignalToNoise/showStatus.php",
+		"/Users/craig/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/craig/Library/Application Support/Sublime Text 2/Packages/Prefixr/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Users/craig/Dropbox/Patik.com",
+			"/Users/craig/Dropbox/Patik.com/n/less/bootstrap",
+			"<open files>",
+			"script.desktop.js",
+			"script.snr.js",
+			"script.desktop.js",
+			"filters.desktop.js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"-out",
+			"\\t",
+			" /* Opera 11.10+ */",
+			" /* IE10 */",
+			" /* Webkit 2011+ */",
+			" /* Webkit 2010 */",
+			" /* firefox */",
+			" /* Firefox */",
+			"'method'",
+			"sFunction",
+			"sEventName",
+			"oElem",
+			"\\t",
+			"patik",
+			"serif",
+			"family",
+			"font-sans",
+			"bold",
+			"family",
+			"images",
+			"images/",
+			"cookie.php",
+			"ceyi0nGr",
+			"sawr2f1m",
+			"-redesign",
+			"santorini",
+			"font-f",
+			".navbar-fixed-top",
+			"fixed",
+			"\\n^\\s*$",
+			"style.320.css",
+			"sleight.js",
+			"craigkimmy.jpg",
+			"craigkim_paris2005.jpg",
+			"modernizr-1.6.min.js",
+			"ie8.js",
+			"ie7.js",
+			"ie9.js",
+			"no-ajaxy",
+			"shadow",
+			"border-radius",
+			".span12, .container",
+			"\\t",
+			"40px",
+			"font-family",
+			"nav",
+			"font-family",
+			"url(../img/",
+			"ToggleSavedButton",
+			"twInReplyToLink",
+			"snr.$conversation",
+			"savedStatusLoadingMessage",
+			"savedStatusesLoadingMessage",
+			"savedStatuses",
+			"timelineDisplay(",
+			"timelineDisplay",
+			"snr.d.displayToggleSavedButton",
+			"snr.d.displayToggleSavedButton ",
+			"displayToggleSavedButton",
+			"snr.d.displayToggleSavedButton",
+			"displayToggleSavedButton",
+			"displayToggleSavedButton(",
+			"snr.d.conversation.add",
+			"appending",
+			"showStatus(",
+			"snr.d.conversation.add",
+			"resize",
+			"conversation:",
+			"conversation",
+			"conversation:",
+			"\\t",
+			"showstatus(",
+			"get_twitter_photo_url",
+			"media",
+			"show:",
+			".twinrepl",
+			"^\\t+",
+			"flick",
+			"entities",
+			".status",
+			"Slider",
+			".btn.green.composeButton",
+			"@mail('cpatik@gmail.com',",
+			"('",
+			"@mail('cpatik@gmail.com',",
+			"@mail",
+			"replyLinks",
+			"date(",
+			"115508933539536897",
+			"kirpaul",
+			"piers",
+			"expandedURL",
+			"tweetLinkList",
+			".tweetLinkList li a",
+			"was",
+			"highlightReason",
+			"mentions",
+			"eventsInit",
+			"retweetedByMeContainer",
+			"snr.d.usernameMenu",
+			"usernameMenu",
+			"$('#quickFilterBox')",
+			"quickFilterBox",
+			".modal",
+			"gettrendshtml",
+			"twsearch",
+			"snr.$composeTweetBox.modal",
+			"	",
+			"switch",
+			"keyup",
+			"	",
+			"source-block",
+			"addStatusesToDb",
+			"mysql_select_db",
+			"this",
+			"retweets",
+			"togglestatus",
+			"alert(",
+			"replytweet",
+			"verified",
+			"twitterURLprefix",
+			"verified",
+			"console.",
+			"active",
+			"lastvie",
+			"focusStatus",
+			"username",
+			"usernameBanner"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"  ",
+			"",
+			"  ",
+			"url(../../img/",
+			"snr.d.twitter.displayToggleSavedButton",
+			"  ",
+			"snr.d.$quickFilterModal",
+			"  ",
+			"text-scoring"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "script.js",
+					"settings":
+					{
+						"buffer_size": 3148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"encoding_helper_confidence": 1.0,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_helper_encoding_sublime": "UTF-8",
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": false,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 916.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 110.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/craig/Documents/SublimeWorkspaces/ExternalApps.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true
+}
